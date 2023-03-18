@@ -1,0 +1,61 @@
+*{
+  margin: 0;
+    box-sizing: border-box;
+      -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+body{
+  text-align: center;
+  padding-top: 160px ;
+  background-image: url( https://i.ibb.co/ZL10cDJ/image-desafio-1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  background-position: center;
+  font-family: 'Inter', sans-serif;
+
+}
+
+h1{
+  font-weight: 400;
+  font-size: 64px;
+  line-height: 80px;
+
+
+}
+
+h1 span{
+  color: #DB2777   ;
+}
+
+p{
+  font-size: 20px;
+  line-height: 90px;
+  margin-bottom: 72px;
+  color: 2C2E2F;
+  opacity: .7;
+}
+
+a{
+    padding: 12px 32px;
+      font-weight: 700;
+        font-size: 20px;
+  line-height: 24px;
+  
+
+
+}
+
+a:hover{
+  text-decoration: none;
+  color: black;
+  background-color: #DB2777   ;
+  opacity: 1;
+}
+.btn-primary{
+  text-decoration: none;
+  color: black;
+  background-color: #DB2777    ;
+}
